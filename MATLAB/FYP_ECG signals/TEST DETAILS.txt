@@ -1,0 +1,3 @@
+TEST 4.1 KULUNU 5.5mm_wet cmp LEADII 
+WET CH1
+DRY CH2
