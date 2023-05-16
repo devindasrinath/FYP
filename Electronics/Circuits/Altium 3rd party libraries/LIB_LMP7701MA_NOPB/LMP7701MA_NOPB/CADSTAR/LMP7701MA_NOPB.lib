@@ -1,0 +1,16 @@
+.LMP7701MA_NOPB :1 ;Precision, CMOS Input, RRIO, Wide Supply Range Single Amplifier
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="N/C_1" 2="-IN" 3="+IN" 4="V -" 5="N/C_2" 6="OUTPUT" 7="V +" 8="N/C_3"
+*MXP 8
+*DFN LMP7701MA_NOPB
+~!Mouser Part Number (926-LMP7701MA/NOPB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMP7701MA-NOPB?qs=7lkVKPoqpbb6Q12lvZ%252Bsng%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LMP7701MA/NOPB)
+~!Link Datasheet (http://www.ti.com/lit/gpn/lmp7701)
+~!Height (1.75mm)
+~!3D_Model (LMP7701MA_NOPB)
+LMP7701MA_NOPB
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMP7701MA_NOPB
+D Precision, CMOS Input, RRIO, Wide Supply Range Single Amplifier
+K
+F http://www.ti.com/lit/gpn/lmp7701
+$ENDCMP
+#
+#End Doc Library

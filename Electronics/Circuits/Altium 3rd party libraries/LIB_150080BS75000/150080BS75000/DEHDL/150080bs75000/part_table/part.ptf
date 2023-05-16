@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '150080BS75000'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "150080BS75000" (!) = "", "LEDC2012X80N", "LEDs Chip", "710-150080BS75000", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080BS75000?qs=2kOmHSv6VfT2tBo3UPVqAQ%3D%3D", "LED,Wurth Elektronik,150080BS75000 Wurth Elektronik 150080BS75000, WL-SMCW Series Blue LED, 470 nm 2012 (0805) Clear, Rectangle Lens SMD package", "https://katalog.we-online.com/led/datasheet/150080BS75000.pdf", "0.8 mm"
+END_PART
+
+END.

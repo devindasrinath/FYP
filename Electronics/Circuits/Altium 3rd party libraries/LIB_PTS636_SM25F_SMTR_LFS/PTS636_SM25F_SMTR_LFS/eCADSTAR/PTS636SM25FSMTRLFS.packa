@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PTS636_SM25F_SMTR_LFS"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-03-20-09:32:32)
+    (mountForm default
+        (footprintRef "PTS636SM25FSMTRLFS")
+        (spec "System")
+    )
+)

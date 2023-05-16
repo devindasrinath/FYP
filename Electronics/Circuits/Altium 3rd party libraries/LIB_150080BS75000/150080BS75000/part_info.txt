@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=150080BS75000
+PartCategory=LED
+PackageCategory=LEDs Chip
+PinCount=2
+Version=1.1
+Released=2017-12-11 17:00:02
+Downloaded=2023-05-14 17:32:24
+3D=Y

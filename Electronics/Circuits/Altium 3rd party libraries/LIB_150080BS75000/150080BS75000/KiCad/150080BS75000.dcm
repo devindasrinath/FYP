@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 150080BS75000
+D LED,Wurth Elektronik,150080BS75000 Wurth Elektronik 150080BS75000, WL-SMCW Series Blue LED, 470 nm 2012 (0805) Clear, Rectangle Lens SMD package
+K
+F https://katalog.we-online.com/led/datasheet/150080BS75000.pdf
+$ENDCMP
+#
+#End Doc Library
