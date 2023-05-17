@@ -1,2 +1,4 @@
-Record=TopLevelDocument|FileName=EEG AFE Sheet.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=EEG AFE Sheet.SchDoc|FileName=EEG AFE Sheet 2.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=EEG AFE Sheet 1.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=EEG AFE Sheet 1.SchDoc|FileName=EEG AFE Sheet 2.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=EEG AFE Sheet 1.SchDoc|FileName=EEG AFE Sheet 3.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=EEG AFE Sheet 1.SchDoc|FileName=EEG AFE Sheet 4.SchDoc|SheetNumber=4
