@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=CH1 Pin=J7-3
+Removed Pin From Net: NetName=CH2 Pin=J8-3
+Removed Pin From Net: NetName=CH3 Pin=J10-3
+Removed Pin From Net: NetName=CH5 Pin=J13-3
+Removed Pin From Net: NetName=CH6 Pin=J14-3
+Removed Pin From Net: NetName=CHREF Pin=J15-3
+Removed Pin From Net: NetName=CHBIAS Pin=J16-3
+Added Pin To Net: NetName=CHBIAS Pin=J7-3
+Added Pin To Net: NetName=CH6 Pin=J8-3
+Added Pin To Net: NetName=CH5 Pin=J10-3
+Added Pin To Net: NetName=CH3 Pin=J13-3
+Added Pin To Net: NetName=CH2 Pin=J14-3
+Added Pin To Net: NetName=CH1 Pin=J15-3
+Added Pin To Net: NetName=CHREF Pin=J16-3
