@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [EEG AFE Project.PrjPcb]
+   Generated File[EEG AFE PCB.GTO]
+   Generated File[EEG AFE PCB.GTP]
+   Generated File[EEG AFE PCB.GTS]
+   Generated File[EEG AFE PCB.GTL]
+   Generated File[EEG AFE PCB.GP1]
+   Generated File[EEG AFE PCB.GP2]
+   Generated File[EEG AFE PCB.GBL]
+   Generated File[EEG AFE PCB.GBS]
+   Generated File[EEG AFE PCB.GBP]
+   Generated File[EEG AFE PCB.GBO]
+   Generated File[EEG AFE PCB.RUL]
+   Generated File[EEG AFE PCB.EXTREP]
+   Generated File[EEG AFE PCB.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 11:04:15 PM On 5/19/2023

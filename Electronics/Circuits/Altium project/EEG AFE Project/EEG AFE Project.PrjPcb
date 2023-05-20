@@ -165,17 +165,21 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOWDOIAC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for EEG AFE Project\Design Rule Check - EEG AFE PCB.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Name
-Value=EEG AFE Circuit
+Name=Date created
+Value=5/14/2023
 
 [Parameter2]
 Name=Description
 Value=Circuits of AFE of EEG acquisition circuit is included.
 
 [Parameter3]
-Name=Date created
-Value=5/14/2023
+Name=Name
+Value=EEG AFE Circuit
 
 [Configuration1]
 Name=Sources

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AVSS Pin=U19-2
+Removed Pin From Net: NetName=AVSS Pin=U21-2
+Added Pin To Net: NetName=DGND Pin=U19-2
+Added Pin To Net: NetName=DGND Pin=U21-2
